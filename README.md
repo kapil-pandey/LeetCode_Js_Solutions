@@ -1,4 +1,5 @@
 # LeetCode_Js_Solutions
 
-This repo was created to practise programming questions. It contains solution of programing question taken from a well known site
-i.e LeetCode
+This repo contains  solutions written in JavaScript to questions taken from a well known programming site i.e. LeetCode .
+All the questions can be found here https://leetcode.com/problems/
+
