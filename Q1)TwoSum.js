@@ -2,7 +2,7 @@
  * @Question https://leetcode.com/problems/two-sum/
  * @param {number[]} nums
  * @param {number} target
- * @return {number[]}
+ * @return {number[] }
  */
 var twoSum = function (nums, target) {
   let map = {}
