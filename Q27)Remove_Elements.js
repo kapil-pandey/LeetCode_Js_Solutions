@@ -1,5 +1,5 @@
 /**
- * @Question https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+ * @Question  https://leetcode.com/problems/remove-duplicates-from-sorted-array/
  * @param {number[]} nums
  * @param {number} val
  * @return {number}
