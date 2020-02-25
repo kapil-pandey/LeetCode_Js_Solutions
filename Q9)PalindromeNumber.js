@@ -5,6 +5,7 @@ Example 1:
 
 Input: 121
 Output: true
+
 Example 2:
 
 Input: -121
