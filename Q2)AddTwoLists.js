@@ -5,7 +5,7 @@
  *     this.next = null;
  * }
  */
-/** @Question https://leetcode.com/problems/add-two-numbers/
+/** @Question  https://leetcode.com/problems/add-two-numbers/
  * @param {ListNode} l1
  * @param {ListNode} l2
  * @return {ListNode}
@@ -19,7 +19,7 @@ var addTwoNumbers = function (l1, l2) {
       tail = node
     }
     else {
-    tail.next = node
+      tail.next = node
       tail = tail.next
     }
     let num1 = 0, num2 = 0
